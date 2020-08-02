@@ -12,7 +12,7 @@ The weather Forecast will be used for test automation purposes. The project uses
 
 Below are the instructions to run the project 
 
-1. Clone the git repo — `git clone https://github.com/`
+1. Create a folder weather-forecast-bdd and Clone the git repo — `git clone https://github.com/`
 
 2. Install the dependencies (`npm install`)
 
