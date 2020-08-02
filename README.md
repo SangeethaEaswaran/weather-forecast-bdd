@@ -2,7 +2,7 @@ Weather Forecast
 ====================
 ***
 
-The weather Forecast will be used for test automation purposes. The project uses cucumber-boilerplate framework - [https://github.com/webdriverio/cucumber-boilerplate.git] run WebdriverIO tests with cucumber 
+The weather Forecast BDD will be used for test automation purposes. The project uses cucumber-boilerplate framework - [https://github.com/webdriverio/cucumber-boilerplate.git] run WebdriverIO tests with cucumber 
 
 ## Requirements
 
